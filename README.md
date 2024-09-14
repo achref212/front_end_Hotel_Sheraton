@@ -24,10 +24,19 @@ Hotel Sheraton is a comprehensive hotel booking and management app designed to p
 
 ## Screenshots
 Here are some glimpses of the application in action:
+***
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode](/screenshots/light_mode_dashboard.png) | ![Dark Mode](/screenshots/dark_mode_dashboard.png) |
+ | `Light Mode`                      |
+ | OnBoarding Page                   | Intro Page                     | Login Page                       | Signup Page                       |
+ | -----------                       | -----------------              | -------------                    | -------------                     |
+ | ![](/screenshots/onboarding.png)  | ![](/screenshots/intro.png)    | ![](/screenshots/login.png)      | ![](/screenshots/signup.png)      |
+
+ | `Dark Mode`                       |
+ | OnBoarding Page                   | Intro Page                     | Login Page                       | Signup Page                       |
+ | -----------                       | -----------------              | -------------                    | -------------                     |
+ | ![](/screenshots/onboarding.png)  | ![](/screenshots/into_drk.png) | ![](/screenshots/login_drk.png)  | ![](/screenshots/signup_drk.png)  |
+ 
+
 
 ## Technologies Used
 - **Flutter** for cross-platform mobile app development.
